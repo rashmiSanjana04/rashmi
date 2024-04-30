@@ -1,0 +1,25 @@
+@@ -0,0 +1,24 @@
+public class Inky{
+       public inky(String pinky){
+       System.out.println(pinky);
+}
+
+public Inky(String pinky, String blinky, String rinky){
+System.out.println(blinky+ "     "  + pinky);
+System.out.println(pinky+ "     " + rinky);
+System.out.println(blinky+ "     " + pinky + "     " + rinky);
+}
+
+public Static void main(String args[] ){
+
+string pinky ="Donky";
+
+Inky ponky = new Inky(pinky);
+
+String blinky="pinky";
+string rinky="monkey";
+
+Inky ponky 2 = new Inkey(pinky, blinky,rinky);
+
+}
+ }
